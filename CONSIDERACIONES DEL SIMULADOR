@@ -1,0 +1,19 @@
+Consideraciones:
+ Las presentaciones de salida deberán realizarse cada vez que llega un nuevo proceso, se termina un proceso
+en ejecución.
+ No se permiten corridas ininterrumpidas de simulador, desde que se inicia la simulación hasta que termina el
+último proceso.
+ El proyecto deberá ser analizado e implementado por equipos de trabajo.
+ El equipo deberá realizar el seguimiento del proyecto utilizando la herramienta Trello. El mismo deberá ser
+presentado a los docentes cada vez que lo requieran.
+ El programa deberá ser implementado, en lenguaje C o Python.
+ El simular debe funcionar en una máquina de escritorio, no se permiten simuladores que funcionen on-line.
+ No es necesario realizar el simulador con entorno gráfico.
+ El simulador será entregado, vía campus virtual, en un paquete que contenga: el programa ejecutable, el
+código fuente acompañado de una guía (howto) que indique como ejecutar el simulador.
+ Se realizarán presentaciones de avances, antes de la entrega final, las cuales serán consideradas
+obligatorias ya que conformarán el coloquio del TPI. Las fechas estipuladas son:
+◦ 24/09 y 8/10
+◦ 05/11 y 12/11
+ La entrega final será el 22 de noviembre.
+ El coloquio de defensa del TPI se llevará a cabo el 29/11 y 03/12 (a confirmar para cada grupo)
